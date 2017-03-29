@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		54EE6D1D1E8BB44900E636D1 /* preview.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 54EE6D1C1E8BB44900E636D1 /* preview.jpeg */; };
 		54F896E91E8948C5003FAAF8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54F896E81E8948C5003FAAF8 /* AppDelegate.swift */; };
 		54F896EB1E8948C5003FAAF8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54F896EA1E8948C5003FAAF8 /* ViewController.swift */; };
 		54F896EE1E8948C5003FAAF8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 54F896EC1E8948C5003FAAF8 /* Main.storyboard */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		54EE6D1C1E8BB44900E636D1 /* preview.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = preview.jpeg; sourceTree = "<group>"; };
 		54F896E51E8948C5003FAAF8 /* FontsPreview.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FontsPreview.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		54F896E81E8948C5003FAAF8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		54F896EA1E8948C5003FAAF8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -72,6 +74,7 @@
 				54F896F11E8948C5003FAAF8 /* LaunchScreen.storyboard */,
 				54F896F41E8948C5003FAAF8 /* Info.plist */,
 				54F897001E894F22003FAAF8 /* NibUIView.swift */,
+				54EE6D1C1E8BB44900E636D1 /* preview.jpeg */,
 			);
 			path = FontsPreview;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				54F896F31E8948C5003FAAF8 /* LaunchScreen.storyboard in Resources */,
+				54EE6D1D1E8BB44900E636D1 /* preview.jpeg in Resources */,
 				54F896F01E8948C5003FAAF8 /* Assets.xcassets in Resources */,
 				54F896EE1E8948C5003FAAF8 /* Main.storyboard in Resources */,
 				54F896FF1E894EFB003FAAF8 /* HeaderView.xib in Resources */,
@@ -316,6 +320,7 @@
 				54F896F91E8948C5003FAAF8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
